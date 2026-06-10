@@ -1,7 +1,7 @@
 # demos
 
 ### SW Ingenieria website
-**VERCEL · tailwind**
+**VERCEL · tailwind CSS + shadcn/ui· React 18 + TypeScript · Vite**
 Formspree contact integration, GTM/GA4 with conversion tracking, and SEO infrastructure.
 
 → [Live site](https://swingenieria.com)
